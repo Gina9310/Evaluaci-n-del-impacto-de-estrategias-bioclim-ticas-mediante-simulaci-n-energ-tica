@@ -57,8 +57,8 @@ Se analizaron variables relacionadas con:
 temperatura interior, horas de confort térmico, porcentaje de confort por zona térmica, y mejoras térmicas derivadas de las estrategias implementadas.
 
 
-(https://github.com/Gina9310/Evaluaci-n-del-impacto-de-estrategias-bioclim-ticas-mediante-simulaci-n-energ-tica/blob/main/imagen%201.png)
-(https://github.com/Gina9310/Evaluaci-n-del-impacto-de-estrategias-bioclim-ticas-mediante-simulaci-n-energ-tica/blob/main/imagen%202.png)
+  ![imagen 1](https://github.com/Gina9310/Evaluaci-n-del-impacto-de-estrategias-bioclim-ticas-mediante-simulaci-n-energ-tica/blob/main/imagen%201.png)
+!(https://github.com/Gina9310/Evaluaci-n-del-impacto-de-estrategias-bioclim-ticas-mediante-simulaci-n-energ-tica/blob/main/imagen%202.png)
 
 
 Resultados:
