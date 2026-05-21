@@ -57,16 +57,20 @@ Se analizaron variables relacionadas con:
 temperatura interior, horas de confort térmico, porcentaje de confort por zona térmica, y mejoras térmicas derivadas de las estrategias implementadas.
 
 
-  ![imagen 1](https://github.com/Gina9310/Evaluaci-n-del-impacto-de-estrategias-bioclim-ticas-mediante-simulaci-n-energ-tica/blob/main/imagen%201.png)
+![imagen 1](https://github.com/Gina9310/Evaluaci-n-del-impacto-de-estrategias-bioclim-ticas-mediante-simulaci-n-energ-tica/blob/main/imagen%201.png)
 ![imagen_2](https://github.com/Gina9310/Evaluaci-n-del-impacto-de-estrategias-bioclim-ticas-mediante-simulaci-n-energ-tica/blob/main/imagen%202.png)
 
 
-Resultados:
+## Resultados:
 1.-Análisis anual:
+
 1.1 Temperaturas
 El incremento de la temperatura promedio anual para la VIVIENDA fue de 1.56 °C.
 
 La RECAMARA 2 registró el mayor incremento de la temperatura promedio anual, siendo esta de casi 3°C.
+
+
+  ![imagen 3](https://github.com/Gina9310/Evaluaci-n-del-impacto-de-estrategias-bioclim-ticas-mediante-simulaci-n-energ-tica/blob/main/imagen%203.png)
 
 Las temperaturas promedio anual mínimas en el caso base y con la aplicación de estrategias estuvieron ubicadas en el baño completo (4.1°C y 4.9°C ) mientras que las temperaturas promedio anual máximas estuvieron ubicadas en la COCINA (36.1°C y 36.5°C).
 
