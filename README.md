@@ -118,12 +118,17 @@ Recamaras
 ## Recamara 2
 Fue la ZT que mayor incremento de temperatura promedio anual presentó,
 
+ ![imagen 8](https://github.com/Gina9310/Evaluaci-n-del-impacto-de-estrategias-bioclim-ticas-mediante-simulaci-n-energ-tica/blob/main/imagen%208.png)
+
+![imagen 9](https://github.com/Gina9310/Evaluaci-n-del-impacto-de-estrategias-bioclim-ticas-mediante-simulaci-n-energ-tica/blob/main/imagen%209.png)
 La temperatura máxima de 33.5 se presenta en el mes de junio pero que la temperatura mensual promedio máxima se registrada durante el mes de mayo siendo esta de 27.2°C.
 Presenta los mayores incementos de temperatura los meses de febrero y marzo con 3.2 y 3.3 respectivamente.
 El mes con menor incremento fue junio con 2.1 °C.
 
 2.2 Confort térmico
-La Estrategias bioclimáticas incrementan el % de confort en los mese de febrero, marzo, septiembre, octubre y noviembre, mientras que en los meses de abril a agosto el % de confort disminuye con la aplicación de estrategias bioclimáticas.
+
+![imagen 10](https://github.com/Gina9310/Evaluaci-n-del-impacto-de-estrategias-bioclim-ticas-mediante-simulaci-n-energ-tica/blob/main/imagen%2010.png)
+La Estrategias bioclimáticas incrementan el % de confort en los meses de febrero, marzo, septiembre, octubre y noviembre, mientras que en los meses de abril a agosto el % de confort disminuye con la aplicación de estrategias bioclimáticas.
 
 El incremento de horas de confort en meses fríos como septiembre, octubre, noviembre, diciembre-enero un poco y febrero es evidente, sin embargo nuevamente resalta la necesidad de mejorar las estrategias para evitar ganancia de calor en meses con temperaturas altas como lo son de abril a agosto, donde sin la aplicación de estrategias se llega a mayor % de confort.
 
