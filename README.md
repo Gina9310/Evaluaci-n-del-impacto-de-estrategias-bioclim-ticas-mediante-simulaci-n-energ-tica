@@ -26,7 +26,7 @@ Incremento porcentual de horas dentro del rango de confort térmico después de 
 Temperatura máxima y mínima anual por ZT
 
 ## Metodología
-1.- Análisis bioclimático mediante Climate Consultant
+### 1.- Análisis bioclimático mediante Climate Consultant
 Se utilizó el software Climate Consultant para determinar el rango de confort térmico exterior e identificar estrategias bioclimáticas adecuadas para el caso de estudio ubicado en Fresnillo, Zacatecas.
 
 Rango de confort térmico: Se determinó un rango de confort térmico entre 21 °C y 27 °C.
@@ -39,17 +39,17 @@ Estrategias implementadas: Ampliación de la ventana de la sala de 1.5 m² a 6.2
 
 Estas estrategias fueron implementadas con el objetivo de mejorar el confort térmico interior y reducir la incidencia de radiación solar directa durante el periodo de verano.
 
-2.- Simulación energética mediante SketchUp y EnergyPlus
+### 2.- Simulación energética mediante SketchUp y EnergyPlus
 Se desarrolló un modelo energético de la vivienda utilizando SketchUp y EnergyPlus.
 
 Se evaluaron dos escenarios:
 
 Caso base sin implementación de estrategias bioclimáticas (diagnóstico). Caso con estrategias bioclimáticas implementadas.
 
-3.- Exportación y procesamiento de datos
+### 3.- Exportación y procesamiento de datos
 Los resultados de simulación fueron exportados en formato CSV para su procesamiento y análisis.
 
-4.- Análisis de datos mediante Python
+### 4.- Análisis de datos mediante Python
 Se utilizó Python para el procesamiento, análisis y visualización de los resultados obtenidos en la simulación energética.
 
 Se analizaron variables relacionadas con:
@@ -62,9 +62,9 @@ temperatura interior, horas de confort térmico, porcentaje de confort por zona 
 
 
 ## Resultados:
-1.-Análisis anual:
+### 1.-Análisis anual:
 
-1.1 Temperaturas
+#### 1.1 Temperaturas
 * El incremento de la temperatura promedio anual para la VIVIENDA fue de 1.56 °C.
 
 * La RECAMARA 2 registró el mayor incremento de la temperatura promedio anual, siendo esta de casi 3°C.
@@ -75,7 +75,7 @@ temperatura interior, horas de confort térmico, porcentaje de confort por zona 
 
 * Las temperaturas promedio anual mínimas en el caso base y con la aplicación de estrategias estuvieron ubicadas en el baño completo (4.1°C y 4.9°C ) mientras que las temperaturas promedio anual máximas estuvieron ubicadas en la COCINA (36.1°C y 36.5°C).
 
-1.2 Confort térmico
+#### 1.2 Confort térmico
 Caso base (diagnóstico-barras color azul):
 
    ![imagen 4](https://github.com/Gina9310/Evaluaci-n-del-impacto-de-estrategias-bioclim-ticas-mediante-simulaci-n-energ-tica/blob/main/imagen%204.png)
@@ -96,9 +96,9 @@ Caso con Estrtategias bioclimáticas (barras colo naranja):
 * La zona térmica con mayor porcentaje de horas con temperaturas en confort, es el SALA-PASILLO con un 54.15% y la zona térmica con menor porcentaje con temperaturas en confort, es el baño completo con 39.58%.
 * El efecto del rediseño de la ventana en la sala puede visualizarse en el incremento de horas en confort de esta área. De igual manera las 3 recamaras presentan un incremento de confort posterior a la construcción de tragaluces, favoreciendo la ganancia tanto de luz como de calor.
 
-2.- Análisis mensual:
+### 2.- Análisis mensual:
 
-2.1 Temperaturas
+#### 2.1 Temperaturas
 
 Recamaras
    ![imagen 6](https://github.com/Gina9310/Evaluaci-n-del-impacto-de-estrategias-bioclim-ticas-mediante-simulaci-n-energ-tica/blob/main/imagen%206.png)
@@ -125,7 +125,7 @@ La temperatura máxima de 33.5 se presenta en el mes de junio pero que la temper
 Presenta los mayores incementos de temperatura los meses de febrero y marzo con 3.2 y 3.3 respectivamente.
 El mes con menor incremento fue junio con 2.1 °C.
 
-2.2 Confort térmico
+### 2.2 Confort térmico
 
 ![imagen 10](https://github.com/Gina9310/Evaluaci-n-del-impacto-de-estrategias-bioclim-ticas-mediante-simulaci-n-energ-tica/blob/main/imagen%2010.png)
 La Estrategias bioclimáticas incrementan el % de confort en los meses de febrero, marzo, septiembre, octubre y noviembre, mientras que en los meses de abril a agosto el % de confort disminuye con la aplicación de estrategias bioclimáticas.
