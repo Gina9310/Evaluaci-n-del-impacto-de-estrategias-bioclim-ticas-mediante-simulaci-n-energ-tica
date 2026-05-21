@@ -73,27 +73,27 @@ temperatura interior, horas de confort térmico, porcentaje de confort por zona 
   ![imagen 3](https://github.com/Gina9310/Evaluaci-n-del-impacto-de-estrategias-bioclim-ticas-mediante-simulaci-n-energ-tica/blob/main/imagen%203.png)
    ![imagen 5](https://github.com/Gina9310/Evaluaci-n-del-impacto-de-estrategias-bioclim-ticas-mediante-simulaci-n-energ-tica/blob/main/imagen%205.png)
 
-Las temperaturas promedio anual mínimas en el caso base y con la aplicación de estrategias estuvieron ubicadas en el baño completo (4.1°C y 4.9°C ) mientras que las temperaturas promedio anual máximas estuvieron ubicadas en la COCINA (36.1°C y 36.5°C).
+* Las temperaturas promedio anual mínimas en el caso base y con la aplicación de estrategias estuvieron ubicadas en el baño completo (4.1°C y 4.9°C ) mientras que las temperaturas promedio anual máximas estuvieron ubicadas en la COCINA (36.1°C y 36.5°C).
 
 1.2 Confort térmico
 Caso base (diagnóstico):
 
    ![imagen 4](https://github.com/Gina9310/Evaluaci-n-del-impacto-de-estrategias-bioclim-ticas-mediante-simulaci-n-energ-tica/blob/main/imagen%204.png)
-todas las zonas térmicas tienen menos del 45% de horas al año dentro del rango de confort y el resto, más de 55% se encuentran fuera del rango de confort, ya sea por encima de 27°C o por debajo de 21°C.
+* Todas las zonas térmicas tienen menos del 45% de horas al año dentro del rango de confort y el resto, más de 55% se encuentran fuera del rango de confort, ya sea por encima de 27°C o por debajo de 21°C.
 
-En promedio, para la vivienda, el 41.76% de las horas en un año, se encuentran dentro de la zona de confort.
+* En promedio, para la vivienda, el 41.76% de las horas en un año, se encuentran dentro de la zona de confort.
 
-En promedio, para la vivienda, el 58.24% de las horas en un año, se encuentran fuera de la zona de confort.
+* En promedio, para la vivienda, el 58.24% de las horas en un año, se encuentran fuera de la zona de confort.
 
-La zona térmica con mayor porcentaje de horas con temperaturas en confort, es la COCINA con un 43.56% y la zona térmica con menor porcentaje con temperaturas en confort, es el baño completo con 36.18%.
+* La zona térmica con mayor porcentaje de horas con temperaturas en confort, es la COCINA con un 43.56% y la zona térmica con menor porcentaje con temperaturas en confort, es el baño completo con 36.18%.
 
 Caso con Estrtategias bioclimáticas:
 
    ![imagen 4](https://github.com/Gina9310/Evaluaci-n-del-impacto-de-estrategias-bioclim-ticas-mediante-simulaci-n-energ-tica/blob/main/imagen%204.png)
-En promedio, para la vivienda, el 47.76% de las horas en un año, se encuentran dentro de la zona de confort.
-En promedio, para la vivienda, el 58.24% de las horas en un año, se encuentran fuera de la zona de confort
-En la vivienda, se logró un incremento del 5.73% de horas en confort, lo que equivale a 503 horas.
-La zona térmica con mayor porcentaje de horas con temperaturas en confort, es el SALA-PASILLO con un 54.15% y la zona térmica con menor porcentaje con temperaturas en confort, es el baño completo con 39.58%.
+* En promedio, para la vivienda, el 47.76% de las horas en un año, se encuentran dentro de la zona de confort.
+* En promedio, para la vivienda, el 58.24% de las horas en un año, se encuentran fuera de la zona de confort
+* En la vivienda, se logró un incremento del 5.73% de horas en confort, lo que equivale a 503 horas.
+* La zona térmica con mayor porcentaje de horas con temperaturas en confort, es el SALA-PASILLO con un 54.15% y la zona térmica con menor porcentaje con temperaturas en confort, es el baño completo con 39.58%.
 
 El efecto del rediseño de la ventana en la sala puede visualizarse en el incremento de horas en confort de esta área. De igual manera las 3 recamaras presentan un incremento de confort posterior a la construcción de tragaluces, favoreciendo la ganancia tanto de luz como de calor.
 
