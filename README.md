@@ -111,9 +111,9 @@ Recamaras
 
 * Los incrementos de temperatura mensuales debido a la aplicación de estrategias bioclimáticas, muestra como las recamaras son las zonas térmicas con incrementos por arriba de 2°C. Los mayores incrementos son en los meses de noviembre a marzo por arriba de 2.5,
 
-abril a septiembre los incrementos rondan por debajo de 2.5.
+* Abril a septiembre los incrementos rondan por debajo de 2.5.
 
-Los incrementos de temperatura mensuales debido a la aplicación de estrategias bioclimáticas, muestra como la cocina y el baño son las zonas térmicas con incrementos por debajo de 1°C.
+* Los incrementos de temperatura mensuales debido a la aplicación de estrategias bioclimáticas, muestra como la cocina y el baño son las zonas térmicas con incrementos por debajo de 1°C.
 
 ## Recamara 2
 Fue la ZT que mayor incremento de temperatura promedio anual presentó,
@@ -121,6 +121,7 @@ Fue la ZT que mayor incremento de temperatura promedio anual presentó,
 La temperatura máxima de 33.5 se presenta en el mes de junio pero que la temperatura mensual promedio máxima se registrada durante el mes de mayo siendo esta de 27.2°C.
 Presenta los mayores incementos de temperatura los meses de febrero y marzo con 3.2 y 3.3 respectivamente.
 El mes con menor incremento fue junio con 2.1 °C.
+
 2.2 Confort térmico
 La Estrategias bioclimáticas incrementan el % de confort en los mese de febrero, marzo, septiembre, octubre y noviembre, mientras que en los meses de abril a agosto el % de confort disminuye con la aplicación de estrategias bioclimáticas.
 
