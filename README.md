@@ -58,7 +58,7 @@ temperatura interior, horas de confort térmico, porcentaje de confort por zona 
 
 
   ![imagen 1](https://github.com/Gina9310/Evaluaci-n-del-impacto-de-estrategias-bioclim-ticas-mediante-simulaci-n-energ-tica/blob/main/imagen%201.png)
-!(https://github.com/Gina9310/Evaluaci-n-del-impacto-de-estrategias-bioclim-ticas-mediante-simulaci-n-energ-tica/blob/main/imagen%202.png)
+![imagen_2](https://github.com/Gina9310/Evaluaci-n-del-impacto-de-estrategias-bioclim-ticas-mediante-simulaci-n-energ-tica/blob/main/imagen%202.png)
 
 
 Resultados:
