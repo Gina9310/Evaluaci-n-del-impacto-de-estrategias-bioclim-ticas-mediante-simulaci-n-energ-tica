@@ -101,7 +101,7 @@ Caso con Estrtategias bioclimáticas (barras colo naranja):
 2.1 Temperaturas
 
 Recamaras
-   ![imagen 6](https://github.com/Gina9310/Evaluaci-n-del-impacto-de-estrategias-bioclim-ticas-mediante-simulaci-n-energ-tica/blob/main/imagen%204.png)
+   ![imagen 6](https://github.com/Gina9310/Evaluaci-n-del-impacto-de-estrategias-bioclim-ticas-mediante-simulaci-n-energ-tica/blob/main/imagen%206.png)
 
 * las 3 recamaras tienen una tendencia de temperaturas similar, presentan temperaturas promedio mensual por debajo del rango de confort (21°C) de octubre a marzo, los meses de abril, junio, julio, agosto y septiembre muestran temperaturas promedio mensuales dentro del rango de confort. La temperatura mensual promedio más alta y fuera del rango de confort, se registran en el mes de mayo (27.2°C).
 
@@ -131,5 +131,7 @@ El mes con menor incremento fue junio con 2.1 °C.
 La Estrategias bioclimáticas incrementan el % de confort en los meses de febrero, marzo, septiembre, octubre y noviembre, mientras que en los meses de abril a agosto el % de confort disminuye con la aplicación de estrategias bioclimáticas.
 
 El incremento de horas de confort en meses fríos como septiembre, octubre, noviembre, diciembre-enero un poco y febrero es evidente, sin embargo nuevamente resalta la necesidad de mejorar las estrategias para evitar ganancia de calor en meses con temperaturas altas como lo son de abril a agosto, donde sin la aplicación de estrategias se llega a mayor % de confort.
+
+![imagen 11](https://github.com/Gina9310/Evaluaci-n-del-impacto-de-estrategias-bioclim-ticas-mediante-simulaci-n-energ-tica/blob/main/imagen%2011.png)
 
 Por otro lado, para ZT como el pasillo, sala y la cocina, la distribución de horas en confort tienen un mejor balance en meses con temperaturas más altas y con mejor desempñeo para el caso de aplicaciónde estrategias
