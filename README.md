@@ -18,12 +18,12 @@ Evaluar el impacto de estrategias de arquitectura bioclimática sobre el confort
 * Determinar anualmente y mensualmente las temperaturas promedio, las temperaturas máximas y mínimas y el grado o porcentaje de confort po ZT, con enfoque en ZT con mayores incrementos de temperatura.
 
 ## Variables
-Temperatura interior promedio anual por zona térmica (ZT)
-Diferencia/ Incremento de temperatura promedio entre el caso base y el escenario con estrategias bioclimáticas.
-Número anual de horas dentro del rango de confort térmico por ZT.
-Porcentaje anual de horas dentro del rango de confort térmico por ZT.
-Incremento porcentual de horas dentro del rango de confort térmico después de la implementación de estrategias bioclimáticas.
-Temperatura máxima y mínima anual por ZT
+* Temperatura interior promedio anual por zona térmica (ZT)
+* Diferencia/ Incremento de temperatura promedio entre el caso base y el escenario con estrategias bioclimáticas.
+* Número anual de horas dentro del rango de confort térmico por ZT.
+* Porcentaje anual de horas dentro del rango de confort térmico por ZT.
+* Incremento porcentual de horas dentro del rango de confort térmico después de la implementación de estrategias bioclimáticas.
+* Temperatura máxima y mínima anual por ZT
 
 ## Metodología
 ### 1.- Análisis bioclimático mediante Climate Consultant
@@ -91,7 +91,7 @@ Caso con Estrtategias bioclimáticas (barras colo naranja):
 
    ![imagen 4](https://github.com/Gina9310/Evaluaci-n-del-impacto-de-estrategias-bioclim-ticas-mediante-simulaci-n-energ-tica/blob/main/imagen%204.png)
 * En promedio, para la vivienda, el 47.76% de las horas en un año, se encuentran dentro de la zona de confort.
-* En promedio, para la vivienda, el 58.24% de las horas en un año, se encuentran fuera de la zona de confort
+* En promedio, para la vivienda, el 52.24% de las horas en un año, se encuentran fuera de la zona de confort
 * En la vivienda, se logró un incremento del 5.73% de horas en confort, lo que equivale a 503 horas.
 * La zona térmica con mayor porcentaje de horas con temperaturas en confort, es el SALA-PASILLO con un 54.15% y la zona térmica con menor porcentaje con temperaturas en confort, es el baño completo con 39.58%.
 * El efecto del rediseño de la ventana en la sala puede visualizarse en el incremento de horas en confort de esta área. De igual manera las 3 recamaras presentan un incremento de confort posterior a la construcción de tragaluces, favoreciendo la ganancia tanto de luz como de calor.
