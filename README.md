@@ -97,13 +97,19 @@ Caso con Estrtategias bioclimáticas (barras colo naranja):
 * El efecto del rediseño de la ventana en la sala puede visualizarse en el incremento de horas en confort de esta área. De igual manera las 3 recamaras presentan un incremento de confort posterior a la construcción de tragaluces, favoreciendo la ganancia tanto de luz como de calor.
 
 2.- Análisis mensual:
+
 2.1 Temperaturas
+
 Recamaras
-las 3 recamaras tienen una tendencia de temperaturas similar, presentan temperaturas promedio mensual por debajo del rango de confort (21°C) de octubre a marzo, los meses de abril, junio, julio, agosto y septiembre muestran temperaturas promedio mensuales dentro del rango de confort. La temperatura mensual promedio más alta y fuera del rango de confort, se registran en el mes de mayo (27.2°C).
+   ![imagen 6](https://github.com/Gina9310/Evaluaci-n-del-impacto-de-estrategias-bioclim-ticas-mediante-simulaci-n-energ-tica/blob/main/imagen%204.png)
 
-Las temperaturas mínimas y máximas, muestran un ligero incremento en la temperatura, en aquellos meses en los que la temperatura promedio mensual fueron temperaturas menores a 21°C (octubre-marzo).
+* las 3 recamaras tienen una tendencia de temperaturas similar, presentan temperaturas promedio mensual por debajo del rango de confort (21°C) de octubre a marzo, los meses de abril, junio, julio, agosto y septiembre muestran temperaturas promedio mensuales dentro del rango de confort. La temperatura mensual promedio más alta y fuera del rango de confort, se registran en el mes de mayo (27.2°C).
 
-Los incrementos de temperatura mensuales debido a la aplicación de estrategias bioclimáticas, muestra como las recamaras son las zonas térmicas con incrementos por arriba de 2°C. Los mayores incrementos son en los meses de noviembre a marzo por arriba de 2.5,
+* Las temperaturas mínimas y máximas, muestran un ligero incremento en la temperatura, en aquellos meses en los que la temperatura promedio mensual fueron temperaturas menores a 21°C (octubre-marzo).
+
+   ![imagen 7](https://github.com/Gina9310/Evaluaci-n-del-impacto-de-estrategias-bioclim-ticas-mediante-simulaci-n-energ-tica/blob/main/imagen%207.png)
+
+* Los incrementos de temperatura mensuales debido a la aplicación de estrategias bioclimáticas, muestra como las recamaras son las zonas térmicas con incrementos por arriba de 2°C. Los mayores incrementos son en los meses de noviembre a marzo por arriba de 2.5,
 
 abril a septiembre los incrementos rondan por debajo de 2.5.
 
