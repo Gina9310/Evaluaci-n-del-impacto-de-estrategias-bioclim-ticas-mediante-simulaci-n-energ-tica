@@ -47,8 +47,8 @@ Se desarrolló un modelo energético de la vivienda utilizando SketchUp y Energy
 
 Se evaluaron dos escenarios:
 
-#### 1.- Caso base sin implementación de estrategias bioclimáticas (diagnóstico).
-#### 2.- Caso con estrategias bioclimáticas implementadas.
+####    1.- Caso base sin implementación de estrategias bioclimáticas (diagnóstico).
+####    2.- Caso con estrategias bioclimáticas implementadas.
 
 ### 3.- Exportación y procesamiento de datos
 Los resultados de simulación fueron exportados en formato CSV para su procesamiento y análisis.
@@ -73,6 +73,7 @@ Imagenes del diseño en 3D de la vivienda:
 
 * La RECAMARA 2 registró el mayor incremento de la temperatura promedio anual, siendo esta de casi 3°C.
 * El baño y la cocina, fueron las ZT con menor incremento en la temperatura promedio anual, siendo estas de 0.52°C y 0.55°C respectivamente.
+  
   ![imagen 3](https://github.com/Gina9310/Evaluaci-n-del-impacto-de-estrategias-bioclim-ticas-mediante-simulaci-n-energ-tica/blob/main/imagen%203.png)
    ![imagen 5](https://github.com/Gina9310/Evaluaci-n-del-impacto-de-estrategias-bioclim-ticas-mediante-simulaci-n-energ-tica/blob/main/imagen%205.png)
 
