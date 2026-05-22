@@ -47,8 +47,8 @@ Se desarrolló un modelo energético de la vivienda utilizando SketchUp y Energy
 
 Se evaluaron dos escenarios:
 
-####    1.- Caso base sin implementación de estrategias bioclimáticas (diagnóstico).
-####    2.- Caso con estrategias bioclimáticas implementadas.
+* Caso base sin implementación de estrategias bioclimáticas (diagnóstico).
+* Caso con estrategias bioclimáticas implementadas.
 
 ### 3.- Exportación y procesamiento de datos
 Los resultados de simulación fueron exportados en formato CSV para su procesamiento y análisis.
@@ -109,7 +109,6 @@ Recamaras
 
 * las 3 recamaras tienen una tendencia de temperaturas similar, presentan temperaturas promedio mensual por debajo del rango de confort (21°C) de octubre a marzo, los meses de abril, junio, julio, agosto y septiembre muestran temperaturas promedio mensuales dentro del rango de confort. La temperatura mensual promedio más alta y fuera del rango de confort, se registran en el mes de mayo (27.2°C).
 
-* Las temperaturas mínimas y máximas, muestran un ligero incremento en la temperatura, en aquellos meses en los que la temperatura promedio mensual fueron temperaturas menores a 21°C (octubre-marzo).
 
    ![imagen 7](https://github.com/Gina9310/Evaluaci-n-del-impacto-de-estrategias-bioclim-ticas-mediante-simulaci-n-energ-tica/blob/main/imagen%207.png)
 
@@ -140,6 +139,6 @@ Fue la ZT que mayor incremento de temperatura promedio anual presentó,
 
 * Por otro lado, para ZT como el pasillo, sala y la cocina, la distribución de horas en confort tienen un mejor balance en meses con temperaturas más altas y con mejor desempeño para el caso de aplicación de estrategias.
 
-* La implementación de estrategias bioclimáticas incrementó el porcentaje anual de horas dentro del rango de confort térmico de la vivienda, pasando de 41.76% a 47.76%, equivalente a aproximadamente 503 horas adicionales de confort.
+### La implementación de estrategias bioclimáticas incrementó el porcentaje anual de horas dentro del rango de confort térmico de la vivienda, pasando de 41.76% a 47.76%, equivalente a aproximadamente 503 horas adicionales de confort.
 
-Los mayores beneficios se observaron en recámaras y áreas con mayor exposición a ganancias solares durante meses fríos. Sin embargo, en meses cálidos algunas zonas presentaron disminución del confort térmico debido al incremento de ganancias térmicas, evidenciando la necesidad de complementar las estrategias con mecanismos adicionales de control solar y ventilación pasiva.
+### Los mayores beneficios se observaron en recámaras y áreas con mayor exposición a ganancias solares durante meses fríos. Sin embargo, en meses cálidos algunas zonas presentaron disminución del confort térmico debido al incremento de ganancias térmicas, evidenciando la necesidad de complementar las estrategias con mecanismos adicionales de control solar y ventilación pasiva.
