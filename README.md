@@ -113,11 +113,11 @@ Recamaras
 
    ![imagen 7](https://github.com/Gina9310/Evaluaci-n-del-impacto-de-estrategias-bioclim-ticas-mediante-simulaci-n-energ-tica/blob/main/imagen%207.png)
 
-* Los incrementos de temperatura mensuales debido a la aplicación de estrategias bioclimáticas, muestra como las recamaras son las zonas térmicas con incrementos por arriba de 2°C. Los mayores incrementos son en los meses de noviembre a marzo por arriba de 2.5,
+* Los incrementos de temperatura mensuales debido a la aplicación de estrategias bioclimáticas, muestra como las recamaras son las zonas térmicas con incrementos por arriba de 2°C. Los mayores incrementos tienen lugar en los meses de noviembre a marzo por arriba de 2.5°C,
 
-* Abril a septiembre los incrementos rondan por debajo de 2.5.
+* De abril a septiembre los incrementos rondan por debajo de 2.5°C.
 
-* Los incrementos de temperatura mensuales debido a la aplicación de estrategias bioclimáticas, muestra como la cocina y el baño son las zonas térmicas con incrementos por debajo de 1°C.
+* Los incrementos de temperatura mensuales debido a la aplicación de estrategias bioclimáticas, muestra como la cocina y el baño son las zonas térmicas con incrementos por debajo de 1°C. Al menos para la cocina presenta un efecto positivo, considerando que es laZT conmayor ganancia de calor debida a la cocción de alimentos.
 
 ## Recamara 2
 Fue la ZT que mayor incremento de temperatura promedio anual presentó,
