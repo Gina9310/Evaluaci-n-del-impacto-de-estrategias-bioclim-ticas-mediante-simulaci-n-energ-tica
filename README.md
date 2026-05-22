@@ -29,13 +29,16 @@ Evaluar el impacto de estrategias de arquitectura bioclimática sobre el confort
 ### 1.- Análisis bioclimático mediante Climate Consultant
 Se utilizó el software Climate Consultant para determinar el rango de confort térmico exterior e identificar estrategias bioclimáticas adecuadas para el caso de estudio ubicado en Fresnillo, Zacatecas.
 
-Rango de confort térmico: Se determinó un rango de confort térmico entre 21 °C y 27 °C.
+* Rango de confort térmico: Se determinó un rango de confort térmico entre 21 °C y 27 °C.
 
-Estrategias bioclimáticas seleccionadas
+#### Estrategias bioclimáticas seleccionadas
 
-La principal estrategia identificada fue la GANANCIA SOLAR DIRECTA, complementada con medidas de CONTROL SOLAR.
+* La principal estrategia identificada fue la GANANCIA SOLAR DIRECTA, complementada con medidas de CONTROL SOLAR.
 
-Estrategias implementadas: Ampliación de la ventana de la sala de 1.5 m² a 6.2 m² para incrementar la ganancia solar y el aprovechamiento de iluminación natural. Incorporación de tragaluces en las tres recámaras con dimensiones de 0.5 m de altura y 1 m de ancho. Instalación de protecciones solares en ventanas de las recámaras 2 y 3, con dimensiones de 1.74 m de ancho y longitud correspondiente al espacio de cada recámara.
+#### Estrategias implementadas: 
+* Ampliación de la ventana de la sala de 1.5 m² a 6.2 m² para incrementar la ganancia solar y el aprovechamiento de iluminación natural.
+* Incorporación de tragaluces en las tres recámaras con dimensiones de 0.5 m de altura y 1 m de ancho.
+* Instalación de protecciones solares en ventanas de las recámaras 2 y 3, con dimensiones de 1.74 m de ancho y longitud correspondiente al espacio de cada recámara.
 
 Estas estrategias fueron implementadas con el objetivo de mejorar el confort térmico interior y reducir la incidencia de radiación solar directa durante el periodo de verano.
 
@@ -44,7 +47,8 @@ Se desarrolló un modelo energético de la vivienda utilizando SketchUp y Energy
 
 Se evaluaron dos escenarios:
 
-Caso base sin implementación de estrategias bioclimáticas (diagnóstico). Caso con estrategias bioclimáticas implementadas.
+#### 1.- Caso base sin implementación de estrategias bioclimáticas (diagnóstico).
+#### 2.- Caso con estrategias bioclimáticas implementadas.
 
 ### 3.- Exportación y procesamiento de datos
 Los resultados de simulación fueron exportados en formato CSV para su procesamiento y análisis.
@@ -56,7 +60,7 @@ Se analizaron variables relacionadas con:
 
 temperatura interior, horas de confort térmico, porcentaje de confort por zona térmica, y mejoras térmicas derivadas de las estrategias implementadas.
 
-
+Imagenes del diseño en 3D de la vivienda:
 ![imagen 1](https://github.com/Gina9310/Evaluaci-n-del-impacto-de-estrategias-bioclim-ticas-mediante-simulaci-n-energ-tica/blob/main/imagen%201.png)
 ![imagen_2](https://github.com/Gina9310/Evaluaci-n-del-impacto-de-estrategias-bioclim-ticas-mediante-simulaci-n-energ-tica/blob/main/imagen%202.png)
 
@@ -68,8 +72,7 @@ temperatura interior, horas de confort térmico, porcentaje de confort por zona 
 * El incremento de la temperatura promedio anual para la VIVIENDA fue de 1.56 °C.
 
 * La RECAMARA 2 registró el mayor incremento de la temperatura promedio anual, siendo esta de casi 3°C.
-
-
+* El baño y la cocina, fueron las ZT con menor incremento en la temperatura promedio anual, siendo estas de 0.52°C y 0.55°C respectivamente.
   ![imagen 3](https://github.com/Gina9310/Evaluaci-n-del-impacto-de-estrategias-bioclim-ticas-mediante-simulaci-n-energ-tica/blob/main/imagen%203.png)
    ![imagen 5](https://github.com/Gina9310/Evaluaci-n-del-impacto-de-estrategias-bioclim-ticas-mediante-simulaci-n-energ-tica/blob/main/imagen%205.png)
 
