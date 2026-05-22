@@ -117,7 +117,7 @@ Recamaras
 
 * De abril a septiembre los incrementos rondan por debajo de 2.5°C.
 
-* Los incrementos de temperatura mensuales debido a la aplicación de estrategias bioclimáticas, muestra como la cocina y el baño son las zonas térmicas con incrementos por debajo de 1°C. Al menos para la cocina presenta un efecto positivo, considerando que es laZT conmayor ganancia de calor debida a la cocción de alimentos.
+* Los incrementos de temperatura mensuales debido a la aplicación de estrategias bioclimáticas, muestra como la cocina y el baño son las zonas térmicas con incrementos por debajo de 1°C. Al menos para la cocina presenta un efecto positivo, considerando que es la ZT con mayor ganancia de calor debida a la cocción de alimentos.
 
 ## Recamara 2
 Fue la ZT que mayor incremento de temperatura promedio anual presentó,
