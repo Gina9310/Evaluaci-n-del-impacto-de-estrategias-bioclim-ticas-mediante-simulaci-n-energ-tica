@@ -9,7 +9,7 @@ La aplicación de estrategias bioclimáticas mostró mejoras en las condiciones 
 Evaluar el impacto de estrategias de arquitectura bioclimática sobre el confort térmico de una vivienda convencional ubicada en el municipio de Fresnillo, Zacatecas, mediante simulación energética utilizando SketchUp y EnergyPlus.
 
 ## Objetivos especificos
-* Determinar el comportamiento térmico (temperatura promedio anual) de las zonas térmicas de la vivienda antes y después de la implementación de estrategias bioclimáticas.
+* Determinar el comportamiento térmico (temperatura promedio anual) de las zonas térmicas (ZT) de la vivienda antes y después de la implementación de estrategias bioclimáticas.
 
 * Calcular el porcentaje anual de horas dentro del rango de confort térmico por zona térmica para el caso base y para el escenario con estrategias bioclimáticas.
 
