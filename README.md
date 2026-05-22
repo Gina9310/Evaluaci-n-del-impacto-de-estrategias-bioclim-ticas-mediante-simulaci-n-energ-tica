@@ -15,7 +15,7 @@ Evaluar el impacto de estrategias de arquitectura bioclimática sobre el confort
 
 * Comparar el incremento del porcentaje de horas de confort térmico por zona térmica después de la implementación de estrategias bioclimáticas.
 
-* Determinar anualmente y mensualmente las temperaturas promedio, las temperaturas máximas y mínimas y el grado o porcentaje de confort po ZT, con enfoque en ZT con mayores incrementos de temperatura.
+* Determinar anualmente y mensualmente las temperaturas promedio, las temperaturas máximas y mínimas y el grado o porcentaje de confort por ZT, con enfoque en ZT con mayores incrementos de temperatura.
 
 ## Variables
 * Temperatura interior promedio anual por zona térmica (ZT)
