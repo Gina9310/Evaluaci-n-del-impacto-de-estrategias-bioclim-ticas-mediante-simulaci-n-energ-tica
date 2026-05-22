@@ -1,7 +1,7 @@
 # Evaluación del impacto de estrategias bioclimáticas mediante simulación energética
 
 ## Descripción del proyecto
-En este proyecto, se realizaron simulaciones a través del software EnergyPlus con la finalidad de definir el impacto de la aplicación de estrategias bioclimáticas en el tiempo en confort térmico, en una vivienda ubicada en Fresnillo, Zacatecas con 120 m2 de construcción, distribuidos en 3 recamaras, cocina, dos baños, sala y pasillo. Se evaluaron las condiciones internas térmicas de la vivienda construida, la cual presenta un comportamiento térmico hostil según la estación del año, temperaturainterna cálida en verano y temperatura fría en invierno.
+En este proyecto, se realizaron simulaciones a través del software EnergyPlus con la finalidad de definir el impacto de la aplicación de estrategias bioclimáticas en el tiempo en confort térmico, en una vivienda ubicada en Fresnillo, Zacatecas con 120 m2 de construcción, distribuidos en 3 recamaras, cocina, dos baños, sala y pasillo. Se evaluaron las condiciones internas térmicas de la vivienda construida, la cual presenta un comportamiento térmico hostil según la estación del año, temperatura interna cálida en verano y temperatura fría en invierno.
 
 La aplicación de estrategias bioclimáticas mostró mejoras en las condiciones de confort, evidenciando el potencial de herramientas de simulación para optimizar el diseño de viviendas y edificios. Este trabajo busca impulsar el uso de software especializado en la evaluación de proyectos arquitectónicos y energéticos, promoviendo soluciones que aprovechen las características climáticas locales para mejorar la habitabilidad y reducir el consumo energético.
 
@@ -91,7 +91,7 @@ Imagenes del diseño en 3D de la vivienda:
 
 * La zona térmica con mayor porcentaje de horas con temperaturas en confort, es la COCINA con un 43.56% (barra color azul) y la zona térmica con menor porcentaje con temperaturas en confort, es el baño completo con 36.18%.
 
-##### Caso con Estrtategias bioclimáticas (barras colo naranja):
+##### Caso con Estrategias bioclimáticas (barras color naranja):
 
    ![imagen 4](https://github.com/Gina9310/Evaluaci-n-del-impacto-de-estrategias-bioclim-ticas-mediante-simulaci-n-energ-tica/blob/main/imagen%204.png)
 * En promedio, para la vivienda, el 47.76% de las horas en un año, se encuentran dentro de la zona de confort.
@@ -126,7 +126,7 @@ Fue la ZT que mayor incremento de temperatura promedio anual presentó,
 
 ![imagen 9](https://github.com/Gina9310/Evaluaci-n-del-impacto-de-estrategias-bioclim-ticas-mediante-simulaci-n-energ-tica/blob/main/imagen%209.png)
 * La temperatura máxima de 33.5 se presenta en el mes de junio mientras que la temperatura mensual promedio máxima se registrada durante el mes de mayo siendo esta de 27.2°C.
-* Presenta los mayores incementos de temperatura los meses de febrero y marzo con 3.2 y 3.3 respectivamente.
+* Presenta los mayores incrementos de temperatura los meses de febrero y marzo con 3.2 y 3.3 respectivamente.
 * El mes con menor incremento fue junio con 2.1 °C.
 
 ### 2.2 Confort térmico
@@ -138,7 +138,7 @@ Fue la ZT que mayor incremento de temperatura promedio anual presentó,
 
 ![imagen 11](https://github.com/Gina9310/Evaluaci-n-del-impacto-de-estrategias-bioclim-ticas-mediante-simulaci-n-energ-tica/blob/main/imagen%2011.png)
 
-* Por otro lado, para ZT como el pasillo, sala y la cocina, la distribución de horas en confort tienen un mejor balance en meses con temperaturas más altas y con mejor desempñeo para el caso de aplicaciónde estrategias.
+* Por otro lado, para ZT como el pasillo, sala y la cocina, la distribución de horas en confort tienen un mejor balance en meses con temperaturas más altas y con mejor desempeño para el caso de aplicación de estrategias.
 
 * La implementación de estrategias bioclimáticas incrementó el porcentaje anual de horas dentro del rango de confort térmico de la vivienda, pasando de 41.76% a 47.76%, equivalente a aproximadamente 503 horas adicionales de confort.
 
