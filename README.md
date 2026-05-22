@@ -125,17 +125,21 @@ Fue la ZT que mayor incremento de temperatura promedio anual presentó,
  ![imagen 8](https://github.com/Gina9310/Evaluaci-n-del-impacto-de-estrategias-bioclim-ticas-mediante-simulaci-n-energ-tica/blob/main/imagen%208.png)
 
 ![imagen 9](https://github.com/Gina9310/Evaluaci-n-del-impacto-de-estrategias-bioclim-ticas-mediante-simulaci-n-energ-tica/blob/main/imagen%209.png)
-La temperatura máxima de 33.5 se presenta en el mes de junio pero que la temperatura mensual promedio máxima se registrada durante el mes de mayo siendo esta de 27.2°C.
-Presenta los mayores incementos de temperatura los meses de febrero y marzo con 3.2 y 3.3 respectivamente.
-El mes con menor incremento fue junio con 2.1 °C.
+* La temperatura máxima de 33.5 se presenta en el mes de junio mientras que la temperatura mensual promedio máxima se registrada durante el mes de mayo siendo esta de 27.2°C.
+* Presenta los mayores incementos de temperatura los meses de febrero y marzo con 3.2 y 3.3 respectivamente.
+* El mes con menor incremento fue junio con 2.1 °C.
 
 ### 2.2 Confort térmico
 
 ![imagen 10](https://github.com/Gina9310/Evaluaci-n-del-impacto-de-estrategias-bioclim-ticas-mediante-simulaci-n-energ-tica/blob/main/imagen%2010.png)
-La Estrategias bioclimáticas incrementan el % de confort en los meses de febrero, marzo, septiembre, octubre y noviembre, mientras que en los meses de abril a agosto el % de confort disminuye con la aplicación de estrategias bioclimáticas.
+* Las Estrategias bioclimáticas incrementan el % de confort en los meses de febrero, marzo, septiembre, octubre y noviembre, mientras que en los meses de abril a agosto el % de confort disminuye con la aplicación de estrategias bioclimáticas.
 
-El incremento de horas de confort en meses fríos como septiembre, octubre, noviembre, diciembre-enero un poco y febrero es evidente, sin embargo nuevamente resalta la necesidad de mejorar las estrategias para evitar ganancia de calor en meses con temperaturas altas como lo son de abril a agosto, donde sin la aplicación de estrategias se llega a mayor % de confort.
+* El incremento de horas de confort en meses fríos como septiembre, octubre, noviembre, diciembre-enero un poco y febrero es evidente, sin embargo nuevamente resalta la necesidad de mejorar las estrategias para evitar ganancia de calor en meses con temperaturas altas como lo son de abril a agosto, donde sin la aplicación de estrategias se llega a mayor % de confort.
 
 ![imagen 11](https://github.com/Gina9310/Evaluaci-n-del-impacto-de-estrategias-bioclim-ticas-mediante-simulaci-n-energ-tica/blob/main/imagen%2011.png)
 
-Por otro lado, para ZT como el pasillo, sala y la cocina, la distribución de horas en confort tienen un mejor balance en meses con temperaturas más altas y con mejor desempñeo para el caso de aplicaciónde estrategias
+* Por otro lado, para ZT como el pasillo, sala y la cocina, la distribución de horas en confort tienen un mejor balance en meses con temperaturas más altas y con mejor desempñeo para el caso de aplicaciónde estrategias.
+
+* La implementación de estrategias bioclimáticas incrementó el porcentaje anual de horas dentro del rango de confort térmico de la vivienda, pasando de 41.76% a 47.76%, equivalente a aproximadamente 503 horas adicionales de confort.
+
+Los mayores beneficios se observaron en recámaras y áreas con mayor exposición a ganancias solares durante meses fríos. Sin embargo, en meses cálidos algunas zonas presentaron disminución del confort térmico debido al incremento de ganancias térmicas, evidenciando la necesidad de complementar las estrategias con mecanismos adicionales de control solar y ventilación pasiva.
