@@ -139,10 +139,11 @@ Fue la ZT que mayor incremento de temperatura promedio anual presentó,
 
 * Por otro lado, para ZT como el pasillo, sala y la cocina, la distribución de horas en confort tienen un mejor balance en meses con temperaturas más altas y con mejor desempeño para el caso de aplicación de estrategias.
 
-Finalmente y para poder tener una visión completa, el siguiente gráfico muestra en un año el porcentaje de horas en confort, fuera de confort por debajo de 21°C y fuera de confort por encima de 27°C en cada uno de los meses durante el diagnóstico y posterior a la aplicación de estrategias bioclimáticas.
+Finalmente y para poder tener una visión completa, el siguiente gráfico muestra en un año el porcentaje de horas en confort en la recamara 2, fuera de confort por debajo de 21°C y fuera de confort por encima de 27°C, en cada uno de los meses durante el diagnóstico y posterior a la aplicación de estrategias bioclimáticas.
 
 ![imagen 12](https://github.com/Gina9310/Evaluaci-n-del-impacto-de-estrategias-bioclim-ticas-mediante-simulaci-n-energ-tica/blob/main/imagen%2012.png)
 
+Nuevamente es notable el incrementó de confort en septiembre, octubre, noviembre, febrero y marzo pero el efecto contrario se ve reflejado en los meses de abril-agosto donde se visualiza dismunución del % de confort e incremento de no confort por encima de 27°C.
 
 ### La implementación de estrategias bioclimáticas incrementó el porcentaje anual de horas dentro del rango de confort térmico de la vivienda, pasando de 41.76% a 47.76%, equivalente a aproximadamente 503 horas adicionales de confort.
 
