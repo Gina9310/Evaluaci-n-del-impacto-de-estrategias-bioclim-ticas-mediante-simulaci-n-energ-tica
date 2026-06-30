@@ -148,3 +148,7 @@ Nuevamente es notable el incrementó de confort en septiembre, octubre, noviembr
 ### La implementación de estrategias bioclimáticas incrementó el porcentaje anual de horas dentro del rango de confort térmico de la vivienda, pasando de 41.76% a 47.76%, equivalente a aproximadamente 503 horas adicionales de confort.
 
 ### Los mayores beneficios se observaron en recámaras y áreas con mayor exposición a ganancias solares durante meses fríos. Sin embargo, en meses cálidos algunas zonas presentaron disminución del confort térmico debido al incremento de ganancias térmicas, evidenciando la necesidad de complementar las estrategias con mecanismos adicionales de control solar y ventilación pasiva.
+
+TABLERO RESUMEN
+
+![TABLERO_POWERBI](https://github.com/Gina9310/Evaluaci-n-del-impacto-de-estrategias-bioclim-ticas-mediante-simulaci-n-energ-tica/blob/main/TABLERO_POWERBI.png)
