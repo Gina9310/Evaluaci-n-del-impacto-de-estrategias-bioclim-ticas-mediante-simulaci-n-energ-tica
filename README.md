@@ -1,4 +1,4 @@
-# Evaluación del impacto de estrategias bioclimáticas mediante simulación energética
+# Evaluacion del impacto de estrategias bioclimaticas mediante simulacion energetica
 
 ## Descripción del proyecto
 En este proyecto, se realizaron simulaciones a través del software EnergyPlus con la finalidad de definir el impacto de la aplicación de estrategias bioclimáticas en el tiempo en confort térmico, en una vivienda ubicada en Fresnillo, Zacatecas con 120 m2 de construcción, distribuidos en 3 recamaras, cocina, dos baños, sala y pasillo. Se evaluaron las condiciones internas térmicas de la vivienda construida, la cual presenta un comportamiento térmico hostil según la estación del año, temperatura interna cálida en verano y temperatura fría en invierno.
